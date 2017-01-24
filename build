@@ -1,0 +1,1 @@
+coffee -cp elevator.coffee | pbcopy
